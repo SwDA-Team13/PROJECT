@@ -6,7 +6,7 @@ This repository contains the final delivery material for the Software Design and
 
 | Path | Description |
 |---|---|
-| `REPORTS/OverviewREPORT.md` | System overview, including purpose, stakeholders, main system description, and basic code statistics. |
-| `REPORTS/ArchitectureREPORT.md` | Architecture analysis, including C4 views and related architectural observations. |
-| `REPORTS/DesignREPORT.md` | Design analysis, including code dependencies, knowledge dependencies, comparison results, detected design patterns, and final findings. |
-| `JOURNALS/` | Individual project journals describing each member's contributions during the project. |
+| [OverviewREPORT.md](REPORTS/OverviewREPORT.md) | System overview, including purpose, stakeholders, main system description, and basic code statistics. |
+| [ArchitectureREPORT.md](REPORTS/ArchitectureREPORT.md) | Architecture analysis, including C4 views and related architectural observations. |
+| [DesignREPORT.md](REPORTS/DesignREPORT.md) | Design analysis, including code dependencies, knowledge dependencies, comparison results, detected design patterns, and final findings. |
+| [JOURNALS](JOURNALS/) | Individual project journals describing each member's contributions during the project. |
